@@ -1,6 +1,6 @@
 # Online Bookstore Web Application
 
-This is a simple **Online Bookstore** web application built with **Spring Boot**, **Maven**, **HTML**, **CSS**, and **Java**. The application provides users with the ability to view available books, manage their owned books, and add new books to the store.
+"This is an intuitive Online Bookstore web application developed using Spring Boot, Maven, HTML, CSS, and Java. It enables users to seamlessly explore available books, manage their personal collection, and contribute new additions to the store."
 
 ## Features
 - **Home Page**: The main landing page of the bookstore. 
