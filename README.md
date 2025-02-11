@@ -8,7 +8,7 @@
 - **My Books**: A personal section showing the books owned by the logged-in user.
 - **New Book Register**: Allows admins or authorized users to add new books to the store's inventory.
 
-## Technologies Used
+## Technologies Used in Application
 - **Backend**: Java, Spring Boot
 - **Frontend**: HTML, CSS
 - **Build Tool**: Maven
